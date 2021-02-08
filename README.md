@@ -15,4 +15,4 @@ I hope to learn in this course how and why to use a particular type of data vizu
 
 
 # Portfolio
-Here's where all the data viz will go! 
+Here's where all the data viz will go!!
