@@ -3,12 +3,12 @@
 <iframe src="https://data.oecd.org/chart/6gQ0" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gQ0" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 
-# Flourish Chart 1
+# Visualizing with Flourish - Grid of Charts
 
-<iframe src='https://flo.uri.sh/visualisation/5297669/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/5297669/?utm_source=embed&utm_campaign=visualisation/5297669' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/5297669"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Flourish Chart 2
+# Visualizing with Flourish - Single Line Chart
 
-<iframe src='https://flo.uri.sh/visualisation/5298051/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/5298051/?utm_source=embed&utm_campaign=visualisation/5298051' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/5298051"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-[Back to the main portfolio](/portfolio.md)
+[Back to the main portfolio](/portfolio.html)
