@@ -11,7 +11,6 @@ In this chart, all 37 countries that reported their debt-to-GDP ratio in the 199
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5297669"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
 # Visualizing with Flourish - Single Line Chart
 In this chart, you can see the debt-to-GDP ratio for the G7 countries, one by one. This is an alternative representation to the grid of charts above. In this graphic, it is easier to focus in on the trends of one specific country, rather than compare the trends across several countries at a time. However, clicking through the selection pane at the top of the chart provides a dynamic view into the shift in trends across the countries in this group. 
 
