@@ -14,4 +14,4 @@ In this chart, you can see the debt-to-GDP ratio for the G7 countries, one by on
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5298051"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-[Back to the main portfolio](/portfolio.html)
+[Click here to go back to the main portfolio page](/portfolio.html)
