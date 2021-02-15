@@ -1,5 +1,5 @@
 # Visualizing Government Debt
-The Organization for Economic Co-operation and Development (OECD) provies free, easy to use and downloadable datasets for public consumption (thanks!). Their website also includes a tool that allows you to design interactive visualizations and embed them directly from their website. The first graph in this series comes from the OECD design tool, while the second and third graphs were created using the same OECD dataset on the platform Flourish. 
+The Organization for Economic Co-operation and Development (OECD) provies free, easy to use and downloadable datasets for public consumption (thanks, OECD!). Their website also includes a tool that allows you to design interactive visualizations and embed them directly from their website. The first graph in this series comes from the OECD design tool, while the second and third graphs were created using the same OECD dataset on the platform Flourish. 
 
 # The OECD Bar Chart 
 In the bar chart below, color is used to bring the reader's eye imediately to the position of the USA relative to the other OECD countries that reported their debt-to-GDP in the year 2018. The minimalist design lays a backdrop to accentuate the chosen bar, a great choice to compliment commentary on a specific country within the crowd.   
