@@ -1,4 +1,6 @@
 # Visualizing Government Debt
+
+#The OECD Bar Chart 
 In the bar chart below, color is used to bring the reader's eye imediately to the position of the USA relative to the other OECD countries that reported their debt-to-gdp in the year 2018. The minimalist design lays a backdrop to accentuate the chosen bar, a great choice to compliment commentary on a specific bar within the crowd.   
 
 <iframe src="https://data.oecd.org/chart/6gQ0" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gQ0" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
