@@ -14,6 +14,6 @@ Prior to COVID, my hobbies were traveling to, and exploring new places, learning
 I hope to learn in this course how and why to use a particular type of data vizualization. I'd like to understand the common "mistakes" around use of color, design choice, and layout and how to choose the best visualtization for a particular audience. I hope to further my skills in presenting data and constructing a compelling story around it, ultimately becoming a more effective communicator. Oh, and how to navigate some new tools, like GitHub!
 
 
-# Portfolio
+# Follow the links below to see my data viz
 
-Visualizing Govt debt(/govtdebt.md)
+[Visualizing Govt debt](/govtdebt.md)
