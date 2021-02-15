@@ -7,7 +7,7 @@ In the bar chart below, color is used to bring the reader's eye imediately to th
 
 
 # Visualizing with Flourish - Grid of Charts
-In this chart, all 37 countries that reported their debt-to-GDP ratio in the 1995-2019 dataset are displayed using line charts in a grid format. In this view the single colored line and grey backdrop gives an overhead view of the varying trends across countries. For a closer look, the interactive graphic allows the reader to hover the mouse over any given line to activate a pop-up that displays the exact ratio value for any given year and country. 
+In this chart, all 37 countries that reported their debt-to-GDP ratio in the 1995-2019 dataset are displayed using line charts in a grid format. In this view the single colored line and grey backdrop gives an overhead view of the varying trends across countries. For a closer look, the interactive graphic allows the reader to hover the mouse over any given line to activate a pop-up that displays the exact ratio value for any given year and country. A quick look gives way to some abnormailites in the time series - I wonder what happend in Ireland, Greece, and Japan to cause these wild shapes! 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5297669"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
