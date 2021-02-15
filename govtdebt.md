@@ -5,7 +5,7 @@
 
 # Visualizing with Flourish - Grid of Charts
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/5297669"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/5297669" data-width="300%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Visualizing with Flourish - Single Line Chart
 
