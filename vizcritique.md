@@ -59,6 +59,10 @@ Reviewer #2: Woah, I see that black borrowers have a lot more debt. It took me a
 
 # The Redesign 
 
+![alt text](/BarChartRework.JPG)
+
+![alt text](/TableRework.JPG)
+
 
 
 [Click here to go back to the main portfolio page](/portfolio.html)
