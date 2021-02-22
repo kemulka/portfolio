@@ -5,6 +5,8 @@ In this project, I will be critiquing a visualization I found publicly available
 # The Visual 
 
 
+
+
 # The Critique
 
 
