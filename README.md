@@ -17,3 +17,5 @@ I hope to learn in this course how and why to use a particular type of data vizu
 # Follow the links below to see my data viz
 
 [Visualizing Govt Debt](/govtdebt.md)
+
+[Visualization Critique & Rework](/vizcritique.md)
