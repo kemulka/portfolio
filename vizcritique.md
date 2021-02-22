@@ -45,12 +45,16 @@ The data visualization effectiveness profile required me to look at aspects of t
 
 # The Rework and Wireframe
 
+My main objective in the rework for this graphic was to simply the message. In the article, the graphic is used to accompany the following statement, "Finding #1: Racial disparitites in student debt are larger than previously understood, and have grown dramatically in recent decades." The author goes on to cite a large gap between black and white students in how much they owe four years after graduation, using figures from 1993 and 2008 graduates. I focused in on the references to disparities being "large" and having "grown dramatically." It is this message I aim to tease out of the messsiness of the original graphic to create a more compelling picture of the author's important finding.
+
+Keeping in mind my objective, along with the points from my critique, I sketched out a few bar charts and a table that focused in on the borrowing gap growth over time. 
+
 ![alt text](/Photo Feb 21, 11 53 50 PM.jpg)
 
 
-Feedback #1: Black borrowers owe $50k in debt on average? In 1993 debt was fairly consistent across racial groups. The table is a little confusing - black borrower's owed that much more? 
+Reviewer #1: Black borrowers owe $50k in debt on average? In 1993 debt was fairly consistent across racial groups. The table is a little confusing - black borrower's owed that much more? 
 
-Feedback #2: Woah, I see that Black borrowers have a lot more debt. It took me a minute to see it was a comparison for two different years. I like the bar charts. 
+Reviewer #2: Woah, I see that black borrowers have a lot more debt. It took me a minute to see it was a comparison for two different years. The bar charts are easy to read, but it took me a second to realize the scale is different between %s and $s. 
 
 
 # The Redesign 
