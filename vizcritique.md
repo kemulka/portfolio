@@ -45,7 +45,14 @@ The data visualization effectiveness profile required me to look at aspects of t
 
 # The Rework and Wireframe
 
+![alt text](/BrookingsViz.JPG)
 
+
+
+
+Feedback #1: Black borrowers owe $50k in debt on average? In 1993 debt was fairly consistent across racial groups. The table is a little confusing - black borrower's owed that much more? 
+
+Feedback #2: Woah, I see that Black borrowers have a lot more debt. It took me a minute to see it was a comparison for two different years. I like the bar charts. 
 
 
 # The Redesign 
