@@ -9,7 +9,7 @@ In this project, I will be critiquing a visualization I found publicly available
 ![alt text](/BrookingsViz.JPG)
 
 The visual chosen for this critique project appeared in ["Black-white disparity in student loan debt more than triples after graduation"](https://www.brookings.edu/research/black-white-disparity-in-student-loan-debt-more-than-triples-after-graduation/
-) by Judith Scott-Clayton and Jing Li, published October 20, 2016. 
+) by Judith Scott-Clayton and Jing Li, published October 20, 2016. I landed on this graphic because I am interested in research and policy discussions related to student loan debt. I was not familiar with the data prior to reading this article, and felt the research findings presented in the report compelling, so I was motivated to create a graphic that helped tell the story. 
 
 
 # The Critique
