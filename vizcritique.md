@@ -2,6 +2,8 @@
 
 "When we create a data visualization, we do so with particular objectives in mind—or at least we should. We visualize data to help people understand particular facts and what they mean. We design the visualization to feature those facts in a way that can be understood and to a degree that is useful. Any data set can be visualized in many ways, depending on the meanings contained therein that we choose to communicate. Visualizing data is an act of interpretation. What we choose to include and how we display it transforms data into a message.” – Stephen Few, Perceptual Edge
 
+--
+
 In this project, I will be critiquing a visualization I found publicly available online using the [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) method and then taking the visual through a rework process with the end result being a more effective data visualiztion. 
 
 # The Visual 
@@ -65,10 +67,10 @@ The first rework design is a grouped bar chart. This is the same chart type as t
 
 Instead of darting around, the eyes are drawn to the large difference in average total debt owed four years after graduation for black graduates in 2008 compared to the rest of the racial groups. To do this, I used color on the set of bars of most interest, and ordered the bars from highest to lowest total debt. The secondary point is that historically, the average total debt owed was pretty consistent across racial groups, but that has changed in recent years. By continuing to include the 1993 data, using a netral grey color, the reader can see quickly the bars are all about the same point. The exact figures for each bar are not important, and they are intentionally left off the chart. However, a reader can use the minimal x-axis labels to quickly see there is a larger than $20k difference between the black graduates' average and that of the second highest, hispanic graduates. 
 
-After rereading the article, I was reminded that the authors make a very clear point in their writing - the **difference** in debt has grown between what black graduates owe and what white graduates owe **over time**. The original charts loses this message within the convoluted bar charts that require quite a bit of mental effort to understand. The figures themselves are listed within sentences in the report, but it is difficult to remember each one as you read and then try to compare in your head. I thought putting the few figures into a simple table would be an effective way for the audience to make sense of the difference quickly. This approach tested well with my reviewers, so with their feedback and my own critique, I designed this table -
+After rereading the article, I was reminded that the authors make a very clear point in their writing - the **difference** in debt has grown between what black graduates owe and what white graduates owe **over time**. The original charts lose this message within the overwhelming amount of information provided, which requires quite a bit of mental effort to understand. The debt figures themselves are listed within sentences in the report, but it is difficult to remember each one as you read and then try to compare in your head. I thought putting the few figures into a simple table would be an effective way for the audience to make sense of the difference quickly. This approach tested well with my reviewers, so with their feedback and my own critique, I designed this table -
 
 ![alt text](/TableRework.JPG)
 
-
+Ultimately, I think either of these graphs would supplement the report's finding well and could even work together as complimentary visuals. If I were to conduct another rework, I may consider using percentage of total debt in the table instead of raw dollar value or including another year of data to further explore the trend over time. 
 
 [Click here to go back to the main portfolio page](/portfolio.html)
