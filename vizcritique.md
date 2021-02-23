@@ -59,7 +59,7 @@ Reviewer #2: Woah, I see that black borrowers have a lot more debt. It took me a
 
 # The Redesign 
 
-The first rework design is a grouped bar chart. This is the same chart type as the original, but using one chart helps focus the audience's attention on the dataset that is most compelling, in my opinion. Take a look -
+The first rework design is a grouped bar chart. This is the same chart type as the original, but using one chart helps focus the audience's attention on the set of figures that is most compelling, in my opinion. Take a look -
 
 ![alt text](/BarChartRework.JPG)
 
