@@ -9,7 +9,7 @@ In this project, I will be critiquing a visualization I found publicly available
 ![alt text](/BrookingsViz.JPG)
 
 The visual chosen for this critique project appeared in ["Black-white disparity in student loan debt more than triples after graduation"](https://www.brookings.edu/research/black-white-disparity-in-student-loan-debt-more-than-triples-after-graduation/
-) by Judith Scott-Clayton and Jing Li, published October 20, 2016. I landed on this graphic because I am interested in research and policy discussions related to student loan debt. I was not familiar with the data prior to reading this article, and felt the research findings presented in the report compelling, so I was motivated to create a graphic that helped tell the story. 
+) by Judith Scott-Clayton and Jing Li, published October 20, 2016. I landed on this graphic because I am interested in research and policy discussions related to student loan debt. I was not familiar with the data prior to reading this article, yet found the research findings presented in the report compelling. This particular data visualization, as is, seemed to distract from the message, so I was motivated to create a graphic that helped tell the compelling story.  
 
 
 # The Critique
@@ -52,14 +52,20 @@ Keeping in mind my objective, along with the points from my critique, I sketched
 ![alt text](/Photo Feb 21, 11 53 50 PM.jpg)
 
 
-Reviewer #1: Black borrowers owe $50k in debt on average? In 1993 debt was fairly consistent across racial groups. The table is a little confusing - black borrower's owed that much more? 
+Reviewer #1: Black graduates owe $50k in debt on average? In 1993 debt burden was fairly consistent across racial groups, but black graduates have more now than the rest. The table is a little confusing - black graduate's owed that much more? The axis labels could be more descriptive.
 
-Reviewer #2: Woah, I see that black borrowers have a lot more debt. It took me a minute to see it was a comparison for two different years. The bar charts are easy to read, but it took me a second to realize the scale is different between %s and $s. 
+Reviewer #2: Woah, I see that black borrowers have a lot more debt. It took me a minute to see the bar charts show a comparison for two different years. The bar charts are easy to read, but it took me a second to realize the scales are different, percentages and currency. 
 
 
 # The Redesign 
 
+The first rework design is a grouped bar chart. This is the same chart type as the original, but using one chart helps focus the audience's attention on the dataset that is most compelling, in my opinion. Take a look -
+
 ![alt text](/BarChartRework.JPG)
+
+Hopefully it is noticeable that there is a the large difference in average total debt owed four years after graduation for black graduates compared to the rest of the racial groups. Moreover, historically, the average total debt owed was pretty consistent across racial groups, but that has changed in recent years.
+
+After rereading the article, I was reminded that the authors make a very clear point - the difference in debt has grown between what black graduates owe and what white graduates owe. The figures are listed within sentences in the report, but it is difficult to remember each as you read and then compare in your head. I thought putting the few figures into a table would be an effective way for the audience to make sense of the figures quickly. This tested well with my reviewers, so with their feedback and my own critique, I designed this table -
 
 ![alt text](/TableRework.JPG)
 
