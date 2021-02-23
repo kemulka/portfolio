@@ -1,6 +1,6 @@
 # Critique by Design
 
-"When we create a data visualization, we do so with particular objectives in mind—or at least we should. We visualize data to help people understand particular facts and what they mean. We design the visualization to feature those facts in a way that can be understood and to a degree that is useful. Any data set can be visualized in many ways, depending on the meanings contained therein that we choose to communicate. Visualizing data is an act of interpretation. What we choose to include and how we display it transforms data into a message.” – Stephen Few, Perceptual Edge
+> "When we create a data visualization, we do so with particular objectives in mind—or at least we should. We visualize data to help people understand particular facts and what they mean. We design the visualization to feature those facts in a way that can be understood and to a degree that is useful. Any data set can be visualized in many ways, depending on the meanings contained therein that we choose to communicate. Visualizing data is an act of interpretation. What we choose to include and how we display it transforms data into a message.” – Stephen Few, Perceptual Edge
 
 --
 
