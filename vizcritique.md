@@ -70,6 +70,6 @@ After rereading the article, I was reminded that the authors make a very clear p
 
 ![alt text](/TableRework.JPG)
 
-Ultimately, I think either of these graphs would supplement the report's finding well and could even work together as complimentary visuals. If I were to conduct another rework, I may consider using percentage of total debt in the table instead of raw dollar value (to reduce the amount od digits to digest) or including another year of data to further explore the trend over time. 
+Ultimately, I think either of these graphs would supplement the report's finding well and could even work together as complimentary visuals. If I were to conduct another rework, I may consider using percentage of total debt in the table instead of raw dollar value (to reduce the amount of digits to digest) or including another year of data to further explore the trend over time. 
 
 [Click here to go back to the main portfolio page](/portfolio.html)
