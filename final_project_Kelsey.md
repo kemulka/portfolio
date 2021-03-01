@@ -29,6 +29,7 @@ I expect to have 3-4 data-driven visualizations and at least one graphic that ut
 # Data
 
 Publicly held (i.e. the U.S. Department of Education is the lender) student loan debt makes up 90% of all student loans, and given the story arc I have planned around federal policy, I will be focusing on just public debt for this project. The Department of Education makes data on its student loan program regularly available online, which will be my primary source: (https://studentaid.gov/data-center/student/portfolio)
+
 Notes:
 - Federal Student Aid Portfolio Summary - lists total debt from 2007 through 2020 for time series dot plot (Tableau)   
 - Federal Student Loan Portfolio by Borrower Location and Debt Size - for ArcGIS (or Tableau) map, will need to geocode
