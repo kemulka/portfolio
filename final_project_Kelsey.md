@@ -23,7 +23,7 @@ Part 3: How to help
 
 I expect to have 3-4 data-driven visualizations and at least one graphic that utilizes symbology to create a key visual the audience will remember. Here are my initial sketches:
 
-![alt text](/initialsketches.JPG)
+![alt text](/initialsketches.png)
 
 
 # Data
