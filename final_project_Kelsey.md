@@ -2,7 +2,7 @@
 
 
 # Project Outline:
-The topic of student loan debt has cropped up in the news (and in my personal life!) more and more over the past few years. In 2020, student loan debt became a hot topic in the presidential primary, as Democratic candidates clashed on their approaches to the situation. This started a greater debate about "student loan forgiveness." Recent public polling shows that people with student debt support debt forgivineess policies much more than those without debt. With my project, I aim to convince those without student debt just what those with it already know -  the extent, and weight, of the student loan crisis can no longer be ignored. It's time to forgive studen loans. 
+The topic of student loan debt has cropped up in the news (and in my personal life!) more and more over the past few years. In 2020, student loan debt became a hot topic in the presidential primary, as Democratic candidates clashed on their approaches to the situation. This started a greater debate about "student loan forgiveness." Recent public polling shows that people with student debt support debt forgivineess policies much more than those without debt. With my project, I aim to convince those without student debt just what those with it already know -  the extent, and weight, of the student loan crisis can no longer be ignored. It's time to forgive student loans. 
 
 Part 1: The debt is here
 - Setup why I'm interested in student loan debt
