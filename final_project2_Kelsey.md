@@ -24,6 +24,8 @@ Part 3: How to help
 
 Moodboard
 
+![alt text](/Moodboard.jpg)
+
 
 
 LINK to SHORTHAND
@@ -31,6 +33,7 @@ LINK to SHORTHAND
 # Data visualizations
 
 Part 1: The debt is here
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/5524754"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Part 2: Why it is important to address the debt / Examples
