@@ -21,3 +21,5 @@ I hope to learn in this course how and why to use a particular type of data vizu
 [Visualization Critique & Rework](/vizcritique.md)
 
 [Final Project Part I](/final_project_Kelsey.md)
+
+[Final Project Part II](/final_project2_Kelsey.md)
