@@ -36,6 +36,8 @@ Part 1: The debt is here
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5524754"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/5526157"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 Part 2: Why it is important to address the debt / Examples
 
 
