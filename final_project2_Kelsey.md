@@ -2,25 +2,19 @@
 # Final Project Part II 
 
 # Storyboard
-The topic of student loan debt has cropped up in the news (and in my personal life!) more and more over the past few years. In 2020, student loan debt became a hot topic in the presidential primary, as Democratic candidates clashed on their approaches to the situation. This started a greater debate about "student loan forgiveness." Recent public polling shows that people with student debt support debt forgivineess policies much more than those without debt. With my project, I aim to convince those without student debt just what those with it already know -  the extent, and weight, of the student loan crisis can no longer be ignored. It's time to forgive student loans. 
 
-For the project presentation I plan to present a story using Shorthand. The story will be built through three main parts: an introduction section, an examples and analysis section, and finally, a call to action section. The first two sections will identfiy and provide context for the problem (the massive accumulation of student loan debt) and inform the audience by shining light on some simple but shocking statistics and data-driven examples illustrated with persuasive data visualizations (primarily created in Tableau). 
+For the project presentation I plan to present a story using Shorthand. In that vein, I draffted my storyboard as a Shorthand Story. In fleshing out the story arc, I planned to start with a dark section, highlighting the problem of student debt and then flow into subsequent sections addressing two important questions I envision the audience asking, "Why has student debt increased so much?" and "Why does it matter?". These sections are followed by a longer section that provides an example of how loans impact household spending and have larger effects on the economy. The closing section highlights that current policies are not working to address the issue and the story ends with a call to action. 
 
-I expect to have 3-4 data-driven visualizations and at least one graphic that utilizes symbology to create a key visual the audience will remember (related to the expenses of one $10,000 loan over the period of 10 years). By the end of the presentation, my aim is that the audience will be compelled to (i) share the information they have learned with others that may also not understand the student loan debt crisis and (ii) actively support legislation that forgiveness student loan debt.
+[Click here to view my storyboard in Shorthand](https://preview.shorthand.com/DWTE3UDFnPrlG0mM)
 
-
-
-
+Prior to creating my storyboard in Shorthand I searched for free photos using key words such as "graduation," "loan," and "student." Because student loans have a human root, I wanted to include pictures to humanize the subject throughout my presentation. For the color palette, I landed on blue and green to reference education and money. I chose a contrasting red color to invoke an alarming reaction when highlighting debt figures to build the story that the debt is a problem. This exploration resulted in the following moodboard for my project: 
 
 **Moodboard**
 
 ![alt text](/Moodboard.jpg)
 
-[Click here to view my storyboard in Shorthand](https://preview.shorthand.com/DWTE3UDFnPrlG0mM)
-
 # Wireframing the Data Visualizations
 
-Part 1: Setting up the issue
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5524754"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -29,14 +23,6 @@ Part 1: Setting up the issue
 <div class="flourish-embed flourish-chart" data-src="visualisation/5526287"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5527749"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-Part 2: Why it is important to address the debt / Examples
-
-- How long it really takes to pay back debt (Example: how $10,000 in debt grows over 10 years)
-- Gov't programs cost taxpayers in the long run
-- What could be bought instead (impact on the economy)
-
-
 
 
 
