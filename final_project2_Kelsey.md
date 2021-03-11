@@ -26,9 +26,7 @@ Moodboard
 
 ![alt text](/Moodboard.jpg)
 
-
-
-LINK to SHORTHAND
+[Click here to view my storyboard in Shorthand](https://preview.shorthand.com/DWTE3UDFnPrlG0mM)
 
 # Data visualizations
 
