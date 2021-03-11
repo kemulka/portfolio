@@ -28,13 +28,13 @@ Prior to creating my storyboard in Shorthand I searched for free photos using ke
 
 # User Research and Interviews
 
-Ahead of my interviews, I developed the following User Research Protocol -
+Ahead of my interviews, I developed the following **User Research Protocol** -
 
 Target audience for my story: individuals that do not know much about student debt, and either don't have debt or do hold some debt but don't understand that it is a pressing issue.
 
 Approach to identifying representative individuals to interview: I identified two friends who are opposed to student debt forgiveness to provide feedback on the level of persuasion in my graphs and challenge/provide alternative perspectives to the points I make along the story arc (representative of my target audience). The third person I sought out was someone who I knew was familiar with student debt relief advocacy. I wanted them to critique my persuasion effort and graphs from the story teller's perspective. 
 
-Interview script: 
+**Interview script: **
 
 Intro: Thanks for agreeing to provide feedback on my project. Please take a few minutes to look at this storyboard on Shorthand. When you're done, please take a look at the data visualizations in my wireframe. 
 
@@ -62,4 +62,6 @@ Interview 3 [alias Claire]: Claire felt the storyboard sections were all good el
 # Reflection
 
 The feedback exercise drew my attention to a few important points that I'm excited to improve upon prior to my final presentation. Mainly, I need to rework my storyboard so that it flows in a more natural order - I think I can do this by adding some additional transition text. I also will work to reduce the complexity of the content as much as possible (remove parts where I need to do a lot of explaining of the concepts) and build out my final data visualizations to tell the story of the impact that student loan repayment has on a household's ability to contribute to the economy (and the magnitude of that multiplied by the # of student loan holders in the country).
+
+[Click here to go back to the main portfolio page](https://kemulka.github.io/portfolio/)
 
