@@ -52,5 +52,8 @@ I expect to have 3-4 data-driven visualizations and at least one graphic that ut
 
 
 
-[Click here to go back to the main portfolio page](https://kemulka.github.io/portfolio/)
+[Final Project Part II](/final_project2_Kelsey.md)
 
+[Final Project Part III](/final_project3_Kelsey.md)
+
+[Back to my main portfolio page](https://kemulka.github.io/portfolio/)
