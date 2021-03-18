@@ -23,3 +23,5 @@ I hope to learn in this course how and why to use a particular type of data vizu
 [Final Project Part I](/final_project_Kelsey.md)
 
 [Final Project Part II](/final_project2_Kelsey.md)
+
+[Final Project Part III](/final_project3_Kelsey.md)
