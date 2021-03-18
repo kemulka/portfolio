@@ -13,6 +13,22 @@ In the last week of my project, I reworked my Shorthand outline to cater to my r
 
 [Click here to view my final project, hosted in Shorthand](https://carnegiemellon.shorthandstories.com/americas-student-debt-problem-/index.html)
 
+**References**
+
+1. The U.S. Department of Education Office of Federal Student Aid. National Student Loan Data System (NSLDS). Accessed 3/12/2021. https://studentaid.gov/data-center/student/portfolio
+2. Adam Looney, David Wessel, and Kadija Yilla. Brookings Institute. Published 1/28/20. Accessed 3/12/21. https://www.brookings.edu/policy2020/votervital/who-owes-all-that-student-debt-and-whod-benefit-if-it-were-forgiven/
+3. Federal Reserve Bank of New York. Household Debt and Credit Report Q4 2020. Accessed 3/18/21. https://www.newyorkfed.org/microeconomics/hhdc.html
+4. Federal Student Aid. National Student Loan Data System (NSLDS) https://studentaid.gov/data-center/student/default
+5. Board of Governors of the Federal Reserve System. Consumer and Community Context. Published 1/1/19 Vol 1 No. 1. Accessed 3/16/21. https://www.federalreserve.gov/publications/files/consumer-community-context-201901.pdf
+6. Emily Stewart. Vox. Published 12/28/20. Accessed 3/16/21. https://www.vox.com/policy-and-politics/22152601/biden-student-loan-debt-cancellation
+7. Debt.org LLC. Copyright 2021. Accessed 3/16/21. https://www.debt.org/students/#Trends_in_Student_Loans
+8. Jaleesa Bustamante. EducationData.org. Published 7/9/19. Accessed 3/15/21. https://educationdata.org/high-school-graduates-who-go-to-college
+9. Anne Helen Peterson. Vox. Published 2/25/2021. Accessed 3/17/21. https://www.vox.com/platform/amp/the-goods/22297809/student-loan-debt-cancel-forgiveness-middle-class
+
+Other Credits
+Images: Graphic elements and the money/graduation cap photo were made available through a subscription to Canva.
+Graphs: Line charts, bar plot, and quadrant plot were created using free software courtesy of Flourish. 
+Platform: The presentation layout was created and hosted through Shorthand.
 
 
 **Navigation**
