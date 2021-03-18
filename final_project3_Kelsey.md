@@ -1,6 +1,6 @@
 # Final Project Part III
 
-**Getting to the end**
+**Reflections**
 
 When I laid out my project outline in Part I, I had a very specific aim to convince my audience that student loan debt should be forgiven by the government. However, as I researched the topic more and more, I found myself wandering off into branches of the issue (racial disparities, types of loans, why the debt is increasing, who is responsible, proposed policies to address the debt, etc.). As it turns out, there is a lot more research and journalism related to student debt out there than I expected – and it is a complicated, high-profile issue.
 
