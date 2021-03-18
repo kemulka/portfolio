@@ -20,8 +20,6 @@ Prior to creating my storyboard in Shorthand I searched for free photos using ke
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5526157"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/5526287"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/5527749"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
@@ -63,5 +61,9 @@ Interview 3 [alias Claire]: Claire felt the storyboard sections were all good el
 
 The feedback exercise drew my attention to a few important points that I'm excited to improve upon prior to my final presentation. Mainly, I need to rework my storyboard so that it flows in a more natural order - I think I can do this by adding some additional transition text. I also will work to reduce the complexity of the content as much as possible (remove parts where I need to do a lot of explaining of the concepts) and build out my final data visualizations to tell the story of the impact that student loan repayment has on a household's ability to contribute to the economy (and the magnitude of that multiplied by the # of student loan holders in the country).
 
-[Click here to go back to the main portfolio page](https://kemulka.github.io/portfolio/)
+[Final Project Part I](/final_project_Kelsey.md)
+
+[Final Project Part III](/final_project3_Kelsey.md)
+
+[Back to my main portfolio page](https://kemulka.github.io/portfolio/)
 
