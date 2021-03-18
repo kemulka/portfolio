@@ -12,9 +12,6 @@ In the last week of my project, I reworked my Shorthand outline to cater to my r
 [Click here to view my final project, hosted in Shorthand](https://preview.shorthand.com/DWTE3UDFnPrlG0mM)
 
 
-**References**
-
-
 
 **Navigation**
 
@@ -22,4 +19,4 @@ In the last week of my project, I reworked my Shorthand outline to cater to my r
 
 [Final Project Part II](/final_project2_Kelsey.md)
 
-[Back to my main page](/final_project2_Kelsey.md)
+[Back to my main portfolio page](https://kemulka.github.io/portfolio/)
