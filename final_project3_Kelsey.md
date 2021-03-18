@@ -27,8 +27,8 @@ In the last week of my project, I reworked my Shorthand outline to cater to my r
 
 Other Credits
 
-Images: Graphic elements and the money/graduation cap photo were made available through a subscription to Canva.
-Graphs: Line charts, bar plot, and quadrant plot were created using free software courtesy of Flourish. 
+Images: Graphic elements and the money/graduation cap photo were made available through a subscription to Canva. I also used Canva in Part II to create a moodboard. Other photos used in my final project are provided by Unsplash and cited as they appear.
+Graphs: Line charts, bar plot, and quadrant plot were created using free software courtesy of Flourish. Data sources are cited under each graph. I used Tableau to create some of my draft visualizations but ultimately decided Flourish was more user friendly. 
 Platform: The presentation layout was created and hosted through Shorthand.
 
 
