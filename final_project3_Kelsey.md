@@ -26,6 +26,7 @@ In the last week of my project, I reworked my Shorthand outline to cater to my r
 9. Anne Helen Peterson. Vox. Published 2/25/2021. Accessed 3/17/21. https://www.vox.com/platform/amp/the-goods/22297809/student-loan-debt-cancel-forgiveness-middle-class
 
 Other Credits
+
 Images: Graphic elements and the money/graduation cap photo were made available through a subscription to Canva.
 Graphs: Line charts, bar plot, and quadrant plot were created using free software courtesy of Flourish. 
 Platform: The presentation layout was created and hosted through Shorthand.
