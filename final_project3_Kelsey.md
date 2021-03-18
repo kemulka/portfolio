@@ -11,7 +11,7 @@ In the last week of my project, I reworked my Shorthand outline to cater to my r
 
 **The Final Product**
 
-[Click here to view my final project, hosted in Shorthand](https://preview.shorthand.com/DWTE3UDFnPrlG0mM)
+[Click here to view my final project, hosted in Shorthand](https://carnegiemellon.shorthandstories.com/americas-student-debt-problem-/index.html)
 
 
 
