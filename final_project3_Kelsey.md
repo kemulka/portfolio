@@ -12,11 +12,11 @@ In the last week of my project, I reworked my Shorthand outline to cater to my r
 [Click here to view my final project, hosted in Shorthand](https://preview.shorthand.com/DWTE3UDFnPrlG0mM)
 
 
-**References
+**References**
 
 
 
-**Navigation*
+**Navigation**
 
 [Final Project Part I](/final_project_Kelsey.md)
 
