@@ -14,3 +14,12 @@ In the last week of my project, I reworked my Shorthand outline to cater to my r
 
 **References
 
+
+
+**Navigation*
+
+[Final Project Part I](/final_project_Kelsey.md)
+
+[Final Project Part II](/final_project2_Kelsey.md)
+
+[Back to my main page](/final_project2_Kelsey.md)
